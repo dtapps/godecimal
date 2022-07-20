@@ -1,5 +1,5 @@
-module go.dtapp.net/godecimal
+module github.com/dtapps/godecimal
 
 go 1.18
 
-require go.dtapp.net/gostring v1.0.3
+require github.com/shopspring/decimal v1.3.1
